@@ -6,7 +6,7 @@ I am Karandeep, Software Engineer from United States.
 - Bachelors of Technology - Computer Science and Engineering - Punjab Technical University, Punjab, India.
 - Supports Free and Open Source Software (FOSS).
 ---
-### Top Skills
+### Technical Skills Skills
 - Software Design
 - UI/UX Design
 - Java
@@ -16,6 +16,8 @@ I am Karandeep, Software Engineer from United States.
 - MySQL, PostgreSQL
 - Ruby on Rails
 - Android Development
+- Data Mining
+- GPU Programming in CUDA
 ---
 ### Contact
 - [E-Mail](mailto:karandeep.grewal97@gmail.com)
