@@ -1,16 +1,22 @@
+---
 ### Hi there 👋
-
-<!--
-**kgrewal2/kgrewal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+I am Karandeep, Software Engineer from United States.
+- Masters of Science - Software Engineering - Arizona State University, AZ, USA.
+- Bachelors of Technology - Computer Science and Engineering - Punjab Technical University, Punjab, India.
+- Supports Free and Open Source Software (FOSS).
+---
+### Top Skills
+- Software Design
+- UI/UX Design
+- Java
+- Python
+- C/C++
+- HTML, CSS, JavaScript
+- MySQL, PostgreSQL
+- Ruby on Rails
+- Android Development
+---
+### Contact
+- [E-Mail](mailto:karandeep.grewal97@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ksgrewal)
