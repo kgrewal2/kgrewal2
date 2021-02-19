@@ -16,6 +16,9 @@ I am Karandeep, Software Engineer from United States.
 - Ruby on Rails
 - Android Development
 - Data Mining
+- NodeJS
+- ExpressJS
+- Python Django
 - GPU Programming in CUDA
 ---
 ### Contact
