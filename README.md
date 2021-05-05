@@ -12,4 +12,5 @@ I am Karandeep, Software Engineer from Gilbert, AZ.
 ### Contact
 - [E-Mail](mailto:kgrewal2@asu.edu)
 - [LinkedIn](https://www.linkedin.com/in/kgrewal2)
-- [Website](kgrewal2.github.io)
+- [Website](https://kgrewal2.github.io)
+- [Instagram](https://www.instagram.com/karandeepxgrewal/)
